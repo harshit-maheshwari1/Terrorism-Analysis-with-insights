@@ -434,7 +434,7 @@ def main():
   # go to https://www.favicon.cc/ and download the ico file and store in assets directory 
   app.run_server() # debug=True
 
-  print("Thank You")
+  print("Thank You for using my project")
   df = None
   app = None
 
